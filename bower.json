@@ -3,7 +3,7 @@
   "description": "",
   "main": "index.js",
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/eliseylenore/calculator3",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -15,5 +15,9 @@
     "jquery": "^3.1.1",
     "bootstrap": "^3.3.7",
     "moment": "^2.17.1"
-  }
+  },
+  "authors": [
+    "Elise St Hilaire <eliseylenore@gmail.com>"
+  ],
+  "private": true
 }
